@@ -12,6 +12,9 @@ public class Calculator {
 	public void product(int a, int b) {
 		System.out.println("Product="+(a*b));
 	}
+	public void division(int a, int b) {
+		System.out.println("Quotient="+(a/b));
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
